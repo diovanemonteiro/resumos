@@ -2,7 +2,29 @@
 
 ## Engenharia de Sotware
 
+ - Processos de Desenvolvimento de Software
+ - RUP
+ - Metodologia Ágil
+ - Engenharia de Requisitos
+ - Análise e Projeto Orientado a Objetos
  - [UML](/engenharia_software/uml.md)
+ - Design de Software
+ - Construção de Software
+ - Teste de Software
+ - Manutenção de Software
+
+## Banco de Dados
+
+ - Conceitos Básicos
+ - Modelagem Conceitual
+ - Modelagem Relacional
+ - SQL
+ - PL/SQL
+
+## SGBDs
+
+ - Oracle 11g ou superior
+ - Mysql 5 ou superior
 
 You can use the [editor on GitHub](https://github.com/diovanemonteiro/resumos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
