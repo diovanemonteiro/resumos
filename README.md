@@ -8,9 +8,9 @@
  - Engenharia de Requisitos
  - Análise e Projeto Orientado a Objetos
  - [UML](/engenharia_software/uml.md)
- - Design de Software
+ - Desenho(Design) de Software
  - Construção de Software
- - Teste de Software
+ - [Teste de Software](/engenharia_software/teste_software.md)
  - Manutenção de Software
 
 ## Banco de Dados
