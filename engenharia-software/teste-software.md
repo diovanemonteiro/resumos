@@ -1,6 +1,6 @@
 # Teste de Software
 
-![Teste de Software](../images/teste_software.png)
+![Teste de Software](../images/teste-software.png)
 
 ## Conceitos Básicos
 
