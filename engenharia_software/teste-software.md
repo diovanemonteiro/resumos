@@ -1,9 +1,11 @@
 # Teste de Software
 
+![Teste de Software](../images/teste_software.png)
+
 ## Conceitos Básicos
 
- - Verificação x Validação
  - Defeito, falha e erro
+ - Verificação x Validação
 
 ## Técnicas de Teste
 
