@@ -40,3 +40,13 @@ A função **COALESCE** tem a estrutura abaixo:
 ```sql
 COALESCE(EXPRESSION 1, EXPRESSION 2, EXPRESSION 3, ..., EXPRESSION N);
 ```
+
+Exercício de fixação:
+
+>BANCA: FCC ANO: 2014 ÓRGÃO: TRF 3ª REGIÃO (SP MS) PROVA: ANALISTA JUDICIÁRIO - INFORMÁTICA (BANCO DE DADOS)
+>Em PL/SQL, COALESCE (expr1, expr2) é equivalente a:
+>a) CASE WHEN expr1 = expr2 AND expr1 IS NOT NULL END
+>b) SUBSTR (expr1, expr2)
+>c) MAX ( expr1, expr2)
+>d) CASE WHEN expr1 IS NOT NULL THEN expr1 ELSE expr2 END
+>e) WHERE expr1 IN expr2
