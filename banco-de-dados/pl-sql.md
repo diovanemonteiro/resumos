@@ -20,3 +20,23 @@ CASE SELECTOR
     ELSE STATEMENT N + 1;
 END CASE;
 ```
+
+## FUNÇÃO **NULLIF**
+
+A função **NULLIF** compara duas expressões. Se elas forem iguais, então retorna NULL, caso contrário retorna o valor da primeira expressão.
+
+A função tem a seguinte estrutura:
+
+```sql
+NULLIF(EXPRESSION 1, EXPRESSION 2);
+```
+
+## FUNÇÃO **COALESCE**
+
+A função **COALESCE** compara cada expressão com NULL a partir da lista de expressões e retorna o valor da primeira expressão com valor não nulo.
+
+A função **COALESCE** tem a estrutura abaixo:
+
+```sql
+COALESCE(EXPRESSION 1, EXPRESSION 2, EXPRESSION 3, ..., EXPRESSION N);
+```
