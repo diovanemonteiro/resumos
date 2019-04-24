@@ -21,11 +21,11 @@ CASE SELECTOR
 END CASE;
 ```
 
-## Funções NULLIF e COALESCE
+## Funções **NULLIF** e **COALESCE**
 
 As funções **NULLIF** e **COALESCE** são definidas pela norma ANSI 1999 para serem abreviaturas do comando CASE. Ambas as funções podem ser usadas como variações da instrução CASE.
 
-## Função **NULLIF**
+### Função **NULLIF**
 
 A função **NULLIF** compara duas expressões. Se elas forem iguais, então retorna NULL, caso contrário retorna o valor da primeira expressão.
 
@@ -35,7 +35,7 @@ A função tem a seguinte estrutura:
 NULLIF(EXPRESSION 1, EXPRESSION 2);
 ```
 
-## Função **COALESCE**
+### Função **COALESCE**
 
 A função **COALESCE** compara cada expressão com NULL a partir da lista de expressões e retorna o valor da primeira expressão com valor não nulo.
 
@@ -50,7 +50,11 @@ COALESCE(EXPRESSION 1, EXPRESSION 2, EXPRESSION 3, ..., EXPRESSION N);
 Em PL/SQL, COALESCE (expr1, expr2) é equivalente a:
 
 a) CASE WHEN expr1 = expr2 AND expr1 IS NOT NULL END
+
 b) SUBSTR (expr1, expr2)
+
 c) MAX ( expr1, expr2)
+
 d) CASE WHEN expr1 IS NOT NULL THEN expr1 ELSE expr2 END
+
 e) WHERE expr1 IN expr2
