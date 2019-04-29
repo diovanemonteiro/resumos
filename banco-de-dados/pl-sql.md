@@ -6,7 +6,7 @@ O PL/SQL (Procedural Language/Structured Query Language) é uma linguagem proced
 
 Na sintaxe tradicional do Oracle, o símbolo (+), denota um **outer join** na consulta e é inserido na coluna da tabela onde pode não haver linhas correspondentes.
 
-No caso da questão, trata-se de left outer join, pois a consulta deve recuperar todas as linhas da tabela funcionários (tabela que está a esquerda na cláusula WHERE) mesmo que não haja correspondência na tabela departamento (tabela que está a direita na cláusula WHERE).
+No caso da questão, trata-se de **left outer join**, pois a consulta deve recuperar todas as linhas da tabela funcionários (tabela que está a esquerda na cláusula WHERE) mesmo que não haja correspondência na tabela departamento(tabela que está a direita na cláusula WHERE).
 
 Logo, como a tabela departamento pode não haver linhas correspondentes, o termo (+) deve ser colocado junto a ele, conforme indicado na alternativa.
 Outras maneiras de realizar essa consulta com o mesmo resultado seriam:
