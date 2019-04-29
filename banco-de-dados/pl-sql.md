@@ -1,5 +1,7 @@
 # PL/SQL
 
+O PL/SQL (Procedural Language/Structured Query Language) é uma linguagem procedural, que foi adicionada pela Oracle, a partir do Oracle Database 6, o qual permite a escrita de programas que contêm instruções SQL. Na linguagem PL/SQL, os programas são divididos em estruturas conhecidas como blocos, sendo que cada um desses blocos contém instruções PL/SQL e SQL. Essas instruções são: de declaração, executáveis e de tratamento de exceções. Exceções são usadas para tratamento de erros em tempo de execução, no código PL/SQL, em que algumas exceções já são predefinidas.
+
 ## Cláusula SELECT
 
 Na sintaxe tradicional do Oracle, o símbolo (+), denota um **outer join** na consulta e é inserido na coluna da tabela onde pode não haver linhas correspondentes.
@@ -77,9 +79,9 @@ A função **TRUNC** retorna _n1_ truncado para _n2_ casas decimais. Se _n2_ é 
 Exemplo:
 
 ```sql
-TRUNC(65.923,2)  -->  65.92
-TRUNC(65.923,2)  -->  65
-TRUNC(65.923,-1) --> 60
+TRUNC(65.923,2)  -- 65.92
+TRUNC(65.923,2)  -- 65
+TRUNC(65.923,-1) -- 60
 ```
 
 ### Exercício de fixação
