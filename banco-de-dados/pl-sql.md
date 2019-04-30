@@ -26,11 +26,13 @@ Logo, como a tabela departamento pode não haver linhas correspondentes, o termo
 Outras maneiras de realizar essa consulta com o mesmo resultado seriam:
 
 ```sql
-SELECT f.nome_funcionario, f.id_departamento, d.nome_departamento FROM funcionarios f LEFT OUTER JOIN departamentos d ON f.id_departamento = d.id_departamento;
+SELECT f.nome_funcionario, f.id_departamento, d.nome_departamento FROM
+funcionarios f LEFT OUTER JOIN departamentos d ON f.id_departamento = d.id_departamento;
 ```
 
 ```sql
-SELECT f.nome_funcionario, f.id_departamento, d.nome_departamento FROM funcionarios f LEFT OUTER JOIN departamentos d USING (id_departamento);
+SELECT f.nome_funcionario, f.id_departamento, d.nome_departamento FROM
+funcionarios f LEFT OUTER JOIN departamentos d USING (id_departamento);
 ```
 
 ## IF
@@ -150,7 +152,7 @@ A sintaxe do comando responsável por retornar a diferença em meses entre duas 
  
 **Sintaxe:** MONTHS_BETWEEN(date1, date2)
 
-> Nota: **SELECT TOP** serve em BDs da Microsoft (SQL Server e Access), o que invalida as alternativas d) e e); **ROWNUM** é um limitador para Oracle, o que invalida as opções b) e c);
+>**Nota:** **SELECT TOP** serve em BDs da Microsoft (SQL Server e Access), o que invalida as alternativas d) e e); **ROWNUM** é um limitador para Oracle, o que invalida as opções b) e c);
 
 ### Outras funções importantes
 
@@ -229,7 +231,7 @@ END;
 
 O comando **ALTER TRIGGER** permite que uma trigger seja habilitada, desabilitada ou recompilada.
 
-> Nota: As triggers são extremamente úteis em um ambiente distribuído para simular um relacionamento de chave estrangeira entre tabelas que não
+> **Nota:** As triggers são extremamente úteis em um ambiente distribuído para simular um relacionamento de chave estrangeira entre tabelas que não
 existem no mesmo banco de dados. Elas também são úteis na implementação de regras de integridade complexas que não podem ser definidas usando os tipos de constraints predefinidos.
 
 ## Exceptions
