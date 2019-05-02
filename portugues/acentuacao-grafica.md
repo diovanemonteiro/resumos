@@ -1,5 +1,15 @@
 # Acentuação Gráfica
 
+- [Sílaba tônica x sílaba átona](#sílaba-tônica-x-sílaba-atóna)  
+- [Classificação quanto ao número de sílabas](#classificação-quanto-ao-número-de-sílabas)  
+- [Classificação quanto a sílaba tônica](#classificação-quanto-ao-número-de-sílabas)  
+  - [Proparoxítona](#proparoxítona)  
+  - [Oxítonas e Monossílabos tônicos](#oxítonas-e-monossílabos-tônicos)   
+  - [Paroxítonas](#paroxítonas)  
+    - [Terminadas em ditongo](#terminadas-em-ditongo) 
+- [Hiato](#hiato)  
+- [Acento diferencial](#acento-diferencial)  
+
 ## Sílaba tônica x sílaba átona
 
  - Sabia x sabiá x sábia
