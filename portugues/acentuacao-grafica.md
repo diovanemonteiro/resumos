@@ -2,11 +2,11 @@
 
 ## Sílaba tônica x sílaba átona
 
-Sabia, sabiá, sábia
-Publico, público
-Secretaria, secretária
-História, historia
-Polícia, policia
+ - Sabia x sabiá x sábia
+ - Publico x público
+ - Secretaria x secretária
+ - História x historia
+ - Polícia x policia
 
 ## Classificação quanto ao número de sílabas
 
@@ -14,15 +14,15 @@ Trissílabo, dissílabo, monossílabo
 
 ## Classificação quanto a sílaba tônica
 
-As palavras são classificacas em oxítona, paroxítona e proparoxítona.
+As palavras são classificadas em oxítona, paroxítona e proparoxítona.
 
 As regras de acentuação se baseiam na posição da sílaba tônica(tonicidade) e na terminação da palavra.
 
-_Cada terminação vai ter uma regra_.
+_Para cada terminação existe uma regra_.
 
-> **Dica:** A banca não vai perguntar se uma determinada palavra tem acento, ela vai colocar na seguinte situação: As palavras são acentuadas pelo mesmo motivo ou regra de acentuação? Nível, lámpada, sofá, nós.
+> **Dica:** A banca não vai perguntar se uma determinada palavra tem acento, ela vai colocar a seguinte situação: As palavras a seguir são acentuadas pelo mesmo motivo ou regra de acentuação? Nível, lâmpada, sofá, nós.
 
-### Proparoxitona
+### Proparoxítona
 
 Todas as proparoxítonas são acentuadas.
 
@@ -86,7 +86,7 @@ his-to-ria / his-tó-ri-a
 
 lín - gua / lín-gu-a
 
-> **Nota:** Uma minoria dos gramáticos defende esse tese.
+> **Nota:** Uma minoria dos gramáticos defende essa tese.
 
 #### Exercícios de Fixação
 
@@ -94,15 +94,15 @@ lín - gua / lín-gu-a
 
 As palavras **várias**, **consequência** e **sanatório** são acentuadas por se enquadrarem na regra das paroxítonas terminadas em ditongo crescente ou das chamadas proparoxítonas aparentes ou relativas.
 
-[] Certo
-[] Errado
+ - [ ] Certo
+ - [ ] Errado
 
 Gabarito: Certo
 
 2. O emprego de acento na palavra **memória** pode ser justificado por duas regras de acentuação distintas.
 
-[] Certo
-[] Errado
+ - [ ] Certo
+ - [ ] Errado
 
 Gabarito: Certo
 
@@ -120,15 +120,15 @@ Gabarito: C.
 
 4. A regra de acentuação gráfica que justifica o emprego do acento gráfico em **aeroportuário** é a mesma que justifica o empregro do acento em "meteorológica".
 
-[] Certo
-[] Errado
+ - [ ] Certo
+ - [ ] Errado
 
 Gabarito: Errado
 
 5. O acento nas palavras **vésperas**, **ciências** e **econômicas** justifica-se devido à mesma regra de acentuação gráfica.
 
-[] Certo
-[] Errado
+ - [ ] Certo
+ - [ ] Errado
 
 **Comentário:** ciências é uma palavra paroxítona terminada em ditongo, o que a diferencia das regras de acentuação das demais palavras que são proparoxítonas.
 
