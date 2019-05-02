@@ -1,5 +1,7 @@
 # Acentuação Gráfica
 
+## Índice
+
 - [Sílaba tônica x sílaba átona](#sílaba-tônica-x-sílaba-atóna)  
 - [Classificação quanto ao número de sílabas](#classificação-quanto-ao-número-de-sílabas)  
 - [Classificação quanto a sílaba tônica](#classificação-quanto-ao-número-de-sílabas)  
@@ -9,10 +11,12 @@
     - [Terminadas em ditongo](#terminadas-em-ditongo) 
 - [Hiato](#hiato)  
 - [Acento diferencial](#acento-diferencial)  
+- [Mapa mental](#mapa-mental)
 
 ## Sílaba tônica x sílaba átona
 
- - Sabia x sabiá x sábia
+ - Sabia(verbo) x sabiá(substantivo) x sábia(adjetivo)
+ - Acumulo(verbo) x acúmulo(substantivo)
  - Publico x público
  - Secretaria x secretária
  - História x historia
@@ -20,11 +24,14 @@
 
 ## Classificação quanto ao número de sílabas
 
-Trissílabo, dissílabo, monossílabo
+ - **Monossílabas**, apenas uma sílaba: pá, pé, só, bem, bens.
+ - **Dissílabas**, duas sílabas: so-fá, a-té, ci-pó, tam-bém, hi-fens.
+ - **Trissílabas**, três sílabas: va-ta-pá, gar-ni-zé, te-cla-do, ar-ma-zém, pa-ra-béns.
+ - **Polissílabas**, mais de três sílabas: já-ca-ran-dá, con-tra-fi-lé, en-fe-za-do, Je-rusa-lém.
 
 ## Classificação quanto a sílaba tônica
 
-As palavras são classificadas em oxítona, paroxítona e proparoxítona.
+Quanto a sílaba tônica as palavras podem ser classificadas em oxítonas, paroxítonas e proparoxítonas.
 
 As regras de acentuação se baseiam na posição da sílaba tônica(tonicidade) e na terminação da palavra.
 
@@ -66,13 +73,13 @@ fácil, **hífen**, álbum, cadáver, álbuns, tóxax, júri, lápis, vírus, b�
 
 > Nota: As gramáticas geralmente colocam essa regra da seguinte forma: são acentuadas as paroxítonas terminadas em tritongo, l, n, um, om, r, ns, x, i, is, us, ps, ã, **ão**...
 
-> **Dica:** A, E, O, EM e ENS nas oxítonas recebem acento, **na paroxítona não**. 
+> **Dica:** As palavras terminadas em A, E, O, EM e ENS nas oxítonas recebem acento, **nas paroxítonas não recebem**. 
 
 #### Terminadas em ditongo
 
 Acentuam-se as paroxítonas terminadas em ditongo, podendo ser, crescente ou decrescente.
 
-Ex: indi**ví**duos, precárias, série, história, homogênea, médio, bromélia, imóveis, água, distância, primário, indústria, rádio, brasília, cenário, próprio, amáveis, imóveis. 
+Ex: indi**ví**duos, pre**cá**rias, s**é**rie, história, homogênea, médio, bromélia, imóveis, água, distância, primário, indústria, rádio, brasília, cenário, próprio, amáveis, imóveis.
 
 > **Dica:** Memorize bem essa regra, ela é importantíssima.
 
@@ -92,9 +99,8 @@ Ex: heroico, assembleia, ideia, androide, debiloide, colmeia, boia, estoico, ast
 
 Ex:
 
-his-to-ria / his-tó-ri-a
-
-lín - gua / lín-gu-a
+ - his-to-ria / his-tó-ri-a
+ - lín - gua / lin-gu-a
 
 > **Nota:** Uma minoria dos gramáticos defende essa tese.
 
