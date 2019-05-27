@@ -1,5 +1,7 @@
-# RUP
+# RUP - Rational Unified Process
+
+![RUP](../images/fases-rup.jpg)
 
 ## Fases
 
-![RUP](../images/fases-rup.jpg)
+## Disciplinas
