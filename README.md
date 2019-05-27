@@ -7,8 +7,8 @@
  - [RUP](/engenharia-software/rup.md)
  - Metodologia Ágil
      + Princípios
-     + SCRUM
-     + KANBAN
+     + Scrum
+     + Kanban
  - Engenharia de Requisitos
  - Análise e Projeto Orientado a Objetos
  - [UML](/engenharia-software/uml.md)
