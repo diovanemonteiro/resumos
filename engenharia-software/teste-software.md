@@ -18,7 +18,7 @@
  - Teste de Unidade
  - Teste de Integração
  - Teste de Sistema
- - Teste de Aceitação
+ - Teste de Aceitação/Validação
 
 ## Tipos de Teste
 
