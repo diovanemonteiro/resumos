@@ -1,5 +1,9 @@
 # Bem-vindo ao Projeto Resumos
 
+## Disciplinas
+
+- [Engenharia de Software](engenharia-software/index.md)
+
 ## Engenharia de Sotware
 
  - [Conceitos Básicos](/engenharia-software/conceitos-basicos.md)
@@ -29,6 +33,15 @@
 
  - Oracle 11g ou superior
  - Mysql 5 ou superior
+
+## Gestão e Governança de TI
+
+ - ITIL 3
+ - COBIT 5
+ - PMBOK 5
+ - MPS.BR
+ - Modelagem de Processos de Negócio(BPM)
+ - ISO 20000 
 
 ## Welcome to GitHub Pages
 
