@@ -2,7 +2,14 @@
 
 ## Disciplinas
 
+- Português
+- Raciocínio Lógico
 - [Engenharia de Software](engenharia-software/index.md)
+- Desenvolvimento de Sistemas
+- [Banco de Dados](banco-de-dados/index.md)
+- Gestão e Governança de TI
+- Segurança da Informação
+- Redes de Computadores
 
 ## Engenharia de Sotware
 
