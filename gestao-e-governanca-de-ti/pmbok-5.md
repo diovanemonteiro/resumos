@@ -16,7 +16,7 @@ O **PMBOK - Project Management Body of Knowledge** é um framework para as prát
 
 Gerenciamento de projetos é a aplicação de conhecimento, habilidades, ferramentas e técnicas às atividades do projeto para atender aos seus requisitos.
 
-Para o gerenciamento, o PMBOK define um conjunto de 47 processos distribuídos em 5 grupos de processo.
+Para o gerenciamento, o PMBOK 5 define um conjunto de **47 processos** distribuídos em **5 grupos de processo**.
 
 São eles:
 
