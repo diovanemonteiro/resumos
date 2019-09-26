@@ -4,7 +4,7 @@
 
 - Português
 - Raciocínio Lógico
-- [Engenharia de Software](engenharia-software/index.md)
+- [Engenharia de Software](engenharia-de-software/index.md)
 - [Desenvolvimento de Sistemas](desenvolvimento-de-sistemas/index.md)
 - [Banco de Dados](banco-de-dados/index.md)
 - [Gestão e Governança de TI](gestao-e-governanca-de-ti/index.md)
