@@ -27,9 +27,8 @@
     1. Conceitos e Fundamentos da Qualidade de Software
     1. Normas de Qualidade de Software (ISO/IEC 9126 e outras)
 
+## Outros
 
-
-
- - Desenho(Design) de Software
- - Construção de Software
- - Manutenção de Software
+- Desenho(Design) de Software
+- Construção de Software
+- Manutenção de Software

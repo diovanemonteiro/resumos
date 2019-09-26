@@ -21,18 +21,3 @@
         1. PostgreSQL
     1. Otimização e Desempenho de SGBDs
 1. Bancos de Dados Dimensionais
-
-
-
-## Banco de Dados
-
- - Conceitos Básicos
- - Modelagem Conceitual
- - Modelagem Relacional
- - SQL
- - PL/SQL
-
-## SGBDs
-
- - Oracle 11g ou superior
- - Mysql 5 ou superior
