@@ -5,50 +5,11 @@
 - Português
 - Raciocínio Lógico
 - [Engenharia de Software](engenharia-software/index.md)
-- Desenvolvimento de Sistemas
+- [Desenvolvimento de Sistemas](desenvolvimento-de-sistemas/index.md)
 - [Banco de Dados](banco-de-dados/index.md)
-- Gestão e Governança de TI
+- [Gestão e Governança de TI](gestao-e-governanca-de-ti/index.md)
 - Segurança da Informação
 - Redes de Computadores
-
-## Engenharia de Sotware
-
- - [Conceitos Básicos](/engenharia-software/conceitos-basicos.md)
- - Processos de Desenvolvimento de Software
- - [RUP](/engenharia-software/rup.md)
- - Metodologia Ágil
-     + Princípios
-     + Scrum
-     + Kanban
- - Engenharia de Requisitos
- - Análise e Projeto Orientado a Objetos
- - [UML](/engenharia-software/uml.md)
- - Desenho(Design) de Software
- - Construção de Software
- - [Teste de Software](/engenharia-software/teste-software.md)
- - Manutenção de Software
-
-## Banco de Dados
-
- - Conceitos Básicos
- - Modelagem Conceitual
- - Modelagem Relacional
- - SQL
- - PL/SQL
-
-## SGBDs
-
- - Oracle 11g ou superior
- - Mysql 5 ou superior
-
-## Gestão e Governança de TI
-
- - ITIL 3
- - COBIT 5
- - PMBOK 5
- - MPS.BR
- - Modelagem de Processos de Negócio(BPM)
- - ISO 20000 
 
 ## Welcome to GitHub Pages
 
