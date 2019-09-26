@@ -2,6 +2,8 @@
 
 ## O que é Engenharia de Software?
 
+A IEEE define **engenharia de software** como a aplicação de uma abordagem sistemática, disciplinada e quantificável de desenvolvimento, operação e manutenção de software.
+
 ## Quais os princípios da Engenharia de Software?
 
 # Processo de Desenvolvimento de Software
