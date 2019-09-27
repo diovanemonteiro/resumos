@@ -56,3 +56,44 @@ As habilidades interpessoais do gerente de projetos:
 ### O que são Programas?
 
 ### O que é Portifólio?
+
+### Ativos de Processos
+
+São fatores que influenciam a maneira como os projetos são executados.
+
+Para o PMBOK existem duas categorias básicas de ativos organizacionais:
+
+- **Processos e procedimentos**: normas, políticas, ciclos de vida de projetos e projetos, instruções de trabalho, procedimentos de comunicação da organização, procedimento de gerenciamento de questões e defeitos.
+- **Base de conhecimento**: Bancos de dados de medição de processos, arquivos de projetos anteriores, base de conhecimento de informações históricas, lições aprendidas e etc.
+
+### Estruturas Organizacionais
+
+As estruturas organizacionais incluem níveis estratégicos, de média gerência e operacionais.
+
+A forma como o gerente de projetos interage com esses três níveis depende de alguns fatores:
+
+- Importância estratégica do projeto
+- Capacidade das partes interessadas exercerem influência sobre o projeto
+- Grau de maturidade do gerente de projetos em gerenciamento de projetos
+- Sistemas de gerenciamento de projetos
+- Comunicações organizacionais
+
+Essa interação determina as características do projeto:
+
+- Nível de autoridade do gerente de projetos
+- Disponibilidade e gerenciamento dos recursos
+- Entidade controlando o orçamento do projeto
+- Papel do gerente de projetos
+- Composição da equipe do projeto
+
+A estrutura organizacional é um fator ambiental da empresa que pode afetar a disponibilidade dos recursos e influenciar a forma como os projetos são conduzidos.
+
+Podem ser classificadas em:
+
+- **Funcional**: a empresa é organizada por funções e cada colaborador tem um chefe funcional.
+- **Matricial**: a empresa é organizada tanto por funções quanto projetos, onde cada colaboraror pode responder para um chefe funcional quanto para um gerente de projeto. Subdivide-se em **matricial fraca, moderada e forte**.
+- **Projetizada**: a empresa é organizada por projetos.
+
+Veja a seguir um resumo das diferenças:
+
+![Estruturas Organizacionais](../images/estrutura-organizacional-2.jpg)
