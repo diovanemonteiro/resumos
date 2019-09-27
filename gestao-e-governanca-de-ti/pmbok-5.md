@@ -141,3 +141,18 @@ Um exemplo seria uma organização funcional que cria uma equipe de projeto espe
 A imagem a seguir ilustra essa estrutura composta:
 
 ![Estrutura Matricial Forte](../images/estrutura-composta.jpg)
+
+### Partes Interessadas do Projeto
+
+As partes interessadas incluem todos os membros da equipe do projeto, assim como todas as entidades interessadas dentro ou fora da organização.
+
+As partes interessadas do projeto incluem:
+
+- **Patrocinador**: é uma pessoa ou grupo que fornece recursos e suporte para o projeto e é
+responsável pelo sucesso do mesmo. O patrocinador pode ser externo ou interno em relação à organização do gerente de projetos. O patrocinador promove o projeto desde a sua concepção inicial até o seu encerramento. O patrocinador conduz o projeto através dos processos iniciais até a sua autorização formal e desempenha um papel significativo no desenvolvimento do escopo inicial e do termo de abertura. 
+- **Clientes e usuários**: os clientes são as pessoas ou organizações que aprovarão e gerenciarão o produto, serviço ou resultado do projeto. Os usuários são as pessoas ou organizações que usarão. 
+- **Vendedores, Fornecedores ou Contratadas**: são empresas externas que assinam um contrato para fornecimento de componentes ou serviços necessários ao projeto.
+- **Parceiros de negócios**: são organizações externas que têm uma relação especial com a empresa, às vezes obtida através de um processo de certificação. Os parceiros de negócios fornecem consultoria especializada ou desempenham um papel específico, como instalação, personalização, treinamento ou suporte.
+- **Grupos organizacionais**: são as partes interessadas internas afetadas pelas atividades da equipe do projeto. 
+- Gerentes funcionais
+- Outras partes interessadas
