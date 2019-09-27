@@ -153,6 +153,20 @@ responsável pelo sucesso do mesmo. O patrocinador pode ser externo ou interno e
 - **Clientes e usuários**: os clientes são as pessoas ou organizações que aprovarão e gerenciarão o produto, serviço ou resultado do projeto. Os usuários são as pessoas ou organizações que usarão. 
 - **Vendedores, Fornecedores ou Contratadas**: são empresas externas que assinam um contrato para fornecimento de componentes ou serviços necessários ao projeto.
 - **Parceiros de negócios**: são organizações externas que têm uma relação especial com a empresa, às vezes obtida através de um processo de certificação. Os parceiros de negócios fornecem consultoria especializada ou desempenham um papel específico, como instalação, personalização, treinamento ou suporte.
-- **Grupos organizacionais**: são as partes interessadas internas afetadas pelas atividades da equipe do projeto. 
-- Gerentes funcionais
-- Outras partes interessadas
+- **Grupos organizacionais**: são as partes interessadas internas afetadas pelas atividades da equipe do projeto. Exemplos de grupos que podem ser afetados incluem marketing e vendas, recursos humanos, departamento jurídico, departamento financeiro, operações, fabricação e atendimento ao cliente.
+- **Gerentes funcionais**: são pessoas chave que desempenham uma função gerencial dentro de uma área administrativa ou funcional do negócio, como recursos humanos, finanças, contabilidade ou aquisições. 
+- **Outras partes interessadas**: Outras partes interessadas como entidades de aquisições, instituições financeiras, órgãos públicos reguladores, especialistas em áreas do conhecimento, consultores e outros, podem ter um interesse financeiro no projeto, contribuir com informações para o projeto, ou ter um interesse no resultado do mesmo.
+
+### Equipe de Projetos
+
+A equipe de projeto inclui o gerente do projeto e o grupo de indíviduos que atua conjuntamente na execução do trabalho do projeto para alcançar os seus objetivos.
+
+As equipes de projeto podem incluir os seguintes papéis:
+
+- **Pessoal de gerenciamento do projeto**: são os membros da equipe que executam as atividades de gerenciamento do projeto, tais como de elaboração do cronograma, orçamento, emissão de relatórios e atividades de controle, comunicações, gerenciamento dos riscos e suporte administrativo.
+- **Recursos humanos do projeto**: os membros da equipe que executam o trabalho de criação das entregas do projeto.
+- **Especialistas de suporte**: os especialistas de suporte executam as atividades exigidas para o desenvolvimento ou execução do plano de gerenciamento do projeto. Atividades como contratações, gerenciamento financeiro, logística, jurídicas, de segurança, engenharia, testes, ou controle da qualidade.
+- **Representantes de usuários ou de clientes**: os membros da organização que aceitarem as entregas ou produtos do projeto podem ser designados para atuar como representantes ou pessoas de contato.
+- **Vendedores, fornecedores ou contratadas**: são empresas externas que assinam um contrato para fornecimento de componentes ou serviços necessários ao projeto.
+- **Membros parceiros de negócios**: membros de organizações de parceiros de negócios podem ser designados como membros da equipe do projeto para garantir sua coordenação adequada.
+- **Parceiros de negócios**: são também empresas externas, mas têm uma relação especial com a empresa, às vezes obtida através de um processo de certificação. Os parceiros de negócios fornecem consultoria especializada ou desempenham um papel específico, como instalação, personalização, treinamento ou suporte.
