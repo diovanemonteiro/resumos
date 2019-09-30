@@ -23,3 +23,11 @@
 - [Gestão e Governança de TI](gestao-e-governanca-de-ti/index.md)
 - Segurança da Informação
 - Redes de Computadores
+
+## Temas para rever
+
+- SOA
+- Normas de Qualidade de Software
+- Análise de Pontos de Função
+- JPA e Hibernate
+- JSF
