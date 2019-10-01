@@ -15,7 +15,7 @@
 
 ## Disciplinas
 
-- Português
+- [Português](portugues/index.md)
 - Raciocínio Lógico
 - [Engenharia de Software](engenharia-de-software/index.md)
 - [Desenvolvimento de Sistemas](desenvolvimento-de-sistemas/index.md)
@@ -29,5 +29,7 @@
 - SOA
 - Normas de Qualidade de Software
 - Análise de Pontos de Função
+- Métricas e Estimativas de Software
+- Modelagem de Processos (BPM)
 - JPA e Hibernate
 - JSF
