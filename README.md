@@ -1,17 +1,15 @@
 # Concurso Tribunal de Justiça do Amazonas
 
-|  |  |
-| ------ | ------ |
-| Edital: | 03/07/2019 |
-| Banca: | CESPE |
-| Cargo: | Analista Judiciário |
-| Especialidade: | Analista de Sistemas |
-| Remuneração: | R$ 8.936,96 |
-| Vagas: | 3 + CR |
-| Inscrições até: | 21/08/2019 |
-| Valor: | R$ 150,00 |
-| Data da Prova: | 13/10/2019 |
-| Edital Verticalizado: | [Link](edital-verticalizado-analista-de-sistemas.md) |
+- **Edital:** 03/07/2019
+- **Banca:** CESPE
+- **Cargo:** Analista Judiciário
+- **Especialidade:** Analista de Sistemas
+- **Remuneração:** R$ 9.428,00
+- **Vagas:** 3 + CR
+- **Inscrições até:** 21/08/2019
+- **Valor:** R$ 150,00
+- **Data da Prova:** 13/10/2019
+- **Edital Verticalizado:** [link](edital-verticalizado-analista-de-sistemas.md)
 
 ## Disciplinas
 
@@ -30,6 +28,8 @@
 - Normas de Qualidade de Software
 - Análise de Pontos de Função
 - Métricas e Estimativas de Software
-- Modelagem de Processos (BPM)
+- Modelagem de Processos de Negócio (BPM)
 - JPA e Hibernate
 - JSF
+- MPS.BR
+- Cinco visões da UML
