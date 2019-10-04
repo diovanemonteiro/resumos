@@ -2,28 +2,14 @@
 
 | Disciplina | Quantidade de Questões |
 | ---------- | ---------------------- |
-| Língua Portuguesa | 16 |
+| Língua Portuguesa | **16** |
 | Geografia do Amazonas | 6 |
-| Legislação Institucional e do Poder Judiciário | 12 |
+| Legislação Institucional e do Poder Judiciário | **12** |
 | Acessibilidade | 6 |
-| Engenharia de Software | 20 |
-| Desenvolvimento de Sistemas | 18 |
+| Engenharia de Software | **20** |
+| Desenvolvimento de Sistemas | **18** |
 | Infraestrtura de TI | 16 |
-| Gestão e Governança de TI | 20 |
-| Processo Digital | 6 |
-
-Disciplinas classificadas por quantidade de questões:
-
-| Disciplina | Quantidade de Questões |
-| ---------- | ---------------------- |
-| Engenharia de Software | 20 |
-| Gestão e Governança de TI | 20 |
-| Desenvolvimento de Sistemas | 18 |
-| Língua Portuguesa | 16 |
-| Infraestrtura de TI | 16 |
-| Legislação Institucional e do Poder Judiciário | 12 |
-| Geografia do Amazonas | 6 |
-| Acessibilidade | 6 |
+| Gestão e Governança de TI | **20** |
 | Processo Digital | 6 |
 
 ## CONHECIMENTOS BÁSICOS
