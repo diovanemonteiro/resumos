@@ -24,7 +24,7 @@
 1. [UML](uml.md)
 1. [Teste de Software](teste-software.md)
 1. [Qualidade de Software](qualidade-de-software.md)
-    1. Conceitos e Fundamentos da Qualidade de Software
+    1. [Conceitos e Fundamentos da Qualidade de Software](fundamentos-qualidade-de-software.md)
     1. Normas de Qualidade de Software (ISO/IEC 9126 e outras)
 
 ## Outros
