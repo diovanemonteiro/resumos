@@ -14,17 +14,31 @@ Os requisitos não funcionais podem ser provenientes das características requer
  
 ### Classificação dos Requisitos Não Funcionais
 
-Requisitos de produtos: Requisitos que especificam o comportamento do produto.Ex. portabilidade; tempo na execução; confiabilidade, mobilidade, etc.
-Requisitos de usabilidade (facilidade de uso). Ex.: usuários deverão operar o sistema após um determinado tempo de treinamento.
-Requisitos de eficiência. Ex.: o sistema deverá processar n requisições por um determinado tempo.
-Requisitos de confiabilidade. Ex.: o sistema deverá ter alta disponibilidade, p.exemplo, 99% do tempo.
-Requisitos de portabilidade. Ex.: o sistema deverá executar em qualquer plataforma.
-Requisitos organizacionais: Requisitos decorrentes de políticas e procedimentos corporativos. Ex. padrões, infraestrutura,etc.
-Requisitos de entrega. Ex.: um relatório de acompanhamento deverá ser fornecido toda segunda-feira.
-Requisitos de implementação. Ex.: o sistema deverá ser desenvolvido na linguagem Java.
-Requisitos de padrões. Ex.: uso de programação orientada a objeto sob a plataforma A.
-Requisitos externos: Requisitos decorrentes de fatores externos ao sistema e ao processo de desenvolvimento. Ex. requisitos de interoperabilidade, legislação,localização geográfica etc.
-Requisitos de interoperabilidade. Ex.: o sistema deverá se comunicar com o banco SQL Server. [GABARITO DA QUESTÃO]
-Requisitos éticos. Ex.: o sistema não apresentará aos usuários quaisquer dados de cunho privativo.
-Requisitos legais. Ex.: o sistema deverá atender às normas legais, tais como padrões, leis, etc.
+**Requisitos de produtos:** Requisitos que especificam o comportamento do produto.Ex. portabilidade; tempo na execução; confiabilidade, mobilidade, etc.
+
+**Requisitos de usabilidade** (facilidade de uso). Ex.: usuários deverão operar o sistema após um determinado tempo de treinamento.
+
+**Requisitos de eficiência**. Ex.: o sistema deverá processar n requisições por um determinado tempo.
+
+**Requisitos de confiabilidade**. Ex.: o sistema deverá ter alta disponibilidade, p.exemplo, 99% do tempo.
+
+**Requisitos de portabilidade**. Ex.: o sistema deverá executar em qualquer plataforma.
+
+**Requisitos organizacionais**: Requisitos decorrentes de políticas e procedimentos corporativos. Ex. padrões, infraestrutura,etc.
+
+**Requisitos de entrega**. Ex.: um relatório de acompanhamento deverá ser fornecido toda segunda-feira.
+
+**Requisitos de implementação**. Ex.: o sistema deverá ser desenvolvido na linguagem Java.
+
+**Requisitos de padrões**. Ex.: uso de programação orientada a objeto sob a plataforma A.
+
+**Requisitos externos**: Requisitos decorrentes de fatores externos ao sistema e ao processo de desenvolvimento. Ex. requisitos de interoperabilidade, legislação,localização geográfica etc.
+
+**Requisitos de interoperabilidade**. Ex.: o sistema deverá se comunicar com o banco SQL Server. 
+_[GABARITO DA QUESTÃO]_
+
+**Requisitos éticos**. Ex.: o sistema não apresentará aos usuários quaisquer dados de cunho privativo.
+
+**Requisitos legais**. Ex.: o sistema deverá atender às normas legais, tais como padrões, leis, etc.
+
 Assim, temos que a interoperabilidade entre um software que esteja em desenvolvimento e outros sistemas existentes é considerada um requisito não funcional.
