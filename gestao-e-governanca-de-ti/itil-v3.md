@@ -2,9 +2,17 @@
 
 ## Introdução
 
+### O que é um serviço?
+
+De acordo com ITIL, um **serviço** é um meio de entregar valor aos clientes, facilitando o atingimento de seus resultados, tirando deles a propriedade dos custos e riscos específicos.
+
+### O que é gerenciamento de serviços de TI?
+
 ## O que é ITIL?
 
-## O que é gerenciamento de serviços de TI?
+É um biblioteca de boas práticas para gerenciamento de serviços de TI.
+
+**Atenção:** Não é uma metodologia.
 
 ## Conceitos
 
@@ -60,3 +68,40 @@ O ciclo de vida da ITIL v3 é formado por 5 estágios:
 - Transição de Serviço
 - Operação de Serviço
 - Melhoria Contínua de Serviço
+
+## Resumo dos Processos
+
+### Estratégia de Serviço
+
+- Gerenciamento da Estratégia
+- Gerenciamento de Portfólio
+- Gerenciamento de Demanda
+- Gerenciamento Finaceiro
+    - Orçamentação
+    - Contabilização
+    - Cobrança
+- Gerenciamento de Relacionamento com o Negócio
+
+### Desenho de Serviço
+
+- Coordenação do Serviço
+- Gerenciamento do Catálogo de Serviço
+- Gerenciamento do Nível de Serviço
+- Gerenciamento da Capacidade
+- Gerenciamento da Disponibilidade
+- Gerenciamento da Continuidade
+- Gerenciamento da Segurança da Informação
+
+### Transição de Serviço
+
+- Planejamento e Suporte à Transição
+- Gerenciamento de Mudanças
+- Gerenciamento de Configuração e Ativos de Serviços
+- Gerenciamento de Liberação e Implantação
+- Validação e Testes do Serviço
+- Avaliação da Mudança
+- Gerenciamento do Conhecimento
+
+### Operação de Serviço
+
+### Melhoria Contínua de Serviço
