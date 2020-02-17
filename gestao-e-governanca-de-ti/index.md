@@ -3,7 +3,7 @@
 ## Índice
 
 1. [PMBOK 5](pmbok-5.md)
-1. [ITIL 3](itil-v3.md)
+1. [ITIL v3](itil-v3.md)
 1. [COBIT 5](cobit-5.md)
 1. [CMMI](cmmi.md)
 1. [MPS.BR](mbs-br.md)
