@@ -4,15 +4,15 @@
 
 ### O que é um serviço?
 
-De acordo com ITIL, um **serviço** é um meio de entregar valor aos clientes, facilitando o atingimento de seus resultados, tirando deles a propriedade dos custos e riscos específicos.
+De acordo com ITIL, um **serviço** é um meio de entregar valor aos clientes, facilitando a obtenção de resultados, tirando deles a propriedade dos custos e riscos específicos.
 
 ### O que é gerenciamento de serviços de TI?
 
 ## O que é ITIL?
 
-É um biblioteca de boas práticas para gerenciamento de serviços de TI.
+É um framework que descreve as melhores práticas para **Gerenciamento de Serviços de TI**. É composto de um coletânia de 5 livros.
 
-**Atenção:** Não é uma metodologia.
+**Atenção:** **Não** é uma **metodologia**, não descreve a forma de implementação ou passo a passo. A ITIL é somente um guia, ela dá orientações.
 
 ## Conceitos
 
@@ -20,18 +20,18 @@ De acordo com ITIL, um **serviço** é um meio de entregar valor aos clientes, f
 
 ### 4 P's da estratégia de serviços
 
-- Perspectiva
-- Posição
-- Plano
+- Perspectiva: como a empresa enxerga o mercado, visão e missão da empresa.
+- Posição: como a organização quer ser vista no mercado.
+- Plano: ações consistentes para alcançar o objetivo da organização.
 - Padrão
 
 ### Valor do serviço
 
-**Utilidade**: Adequado ao propósito. O serviço serve para o cliente, tem utilidade?
+**Utilidade**: Adequação ao propósito. O serviço serve para o cliente, tem utilidade?
 
 **Garantia**: Adequado ao uso. Garantias de funcionamento: capacidade, disponibilidade, continuidade e segurança.
 
-*Obs: Essas duas dimensões devem alcançar o equilíbrio.*
+**_Obs: Essas duas dimensões devem alcançar o equilíbrio._**
 
 ### Tipos de provedores de serviço
 
@@ -103,5 +103,11 @@ O ciclo de vida da ITIL v3 é formado por 5 estágios:
 - Gerenciamento do Conhecimento
 
 ### Operação de Serviço
+
+- Gerenciamento de Eventos
+- Gerenciamento de Incidentes
+- Gerenciamento de Problemas
+- Cumprimento de Requisição
+- Gerenciamento de Acesso
 
 ### Melhoria Contínua de Serviço
